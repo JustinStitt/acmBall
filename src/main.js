@@ -1,15 +1,3 @@
-/* TODO 
-
-  double check documentation
-  add bouncineess to entity documentaiotn
-
-  angle test case
-
-
-  x and y getters and setters
-
-*/
-
 import Game from "./Game.js";
 import Camera from "./Camera.js";
 import config from "../config.js";
